@@ -1,8 +1,7 @@
-print('Hello world')
-print('Abdullah ny akheer kerdi')
-print('O ja o ja')
 print("Hello world")
-#Errors
+print("My name is Abdullah")
+print("This is my first class")
+#Errors Descriptions
 # prin("Error")         word T is missing
 # print'error'          parenthesis missing
 # prit ("error")        word print wasnot completed
