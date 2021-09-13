@@ -25,20 +25,33 @@ sec_controller =  "Voice principal"
 
 
 print (boys+girls)
+#11
 print (girls-boys)
+#3
 print (boys*girls)
+#28
 print (boys/girls)
+#0.5714285714285714
 print (boys+girls+teachers)
+#21
 res = boys+girls-teachers
 print (res)
+#1
 boys = girls
 print (boys)
+#7
 
 
 print (first_controller,sec_controller)
+#Principal Voice principal
 
 print(type(boys))
+#<class 'int'>
 print(type(girls))
+#<class 'int'>
 print(type(ratio))
+#<class 'float'>
 print(type(first_controller))
+#<class 'str'>
 print(type(sec_controller))
+#<class 'str'>
