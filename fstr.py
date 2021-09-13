@@ -40,3 +40,5 @@ print( f"My first name is{first_name} and last name is {last_name} and I'm {age}
 #Data-Type
 print( f"My first name is {type(first_name)} and last name is {type(last_name)} and I'm {type(age)}" )
 #My first name is <class 'str'> and last name is <class 'str'> and I'm <class 'int'>
+
+print("------------- THE END --------")
