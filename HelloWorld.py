@@ -1,7 +1,7 @@
 print("Hello world")
 print("My name is Abdullah")
 print("This is my first class")
-#Errors Descriptions
+#Errors in print function
 # prin("Error")         word T is missing
 # print'error'          parenthesis missing
 # prit ("error")        word print wasnot completed
