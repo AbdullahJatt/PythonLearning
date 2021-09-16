@@ -5,46 +5,51 @@
 Girls = 12
 Boys = 17
 
-res_1 = Girls + Boys
-print(res_1)
+Boys = Girls + Boys
+print(f"The addition of two variables is {Boys}")
 #29
 
-res = Girls - Boys
-print(res)
+Boys = 17
+Boys = Girls - Boys
+print(f"The subtraction of two variables is {Boys}")
 #-5
 
-res = Girls * Boys
-print(res)
+Boys = 17
+Boys = Girls * Boys
+print(f"The multiplication of two variables is {Boys}")
 #204
 
-res = Girls / Boys
-print(res)
+Boys = 17
+Boys = Girls / Boys
+print(f"The division of two variables is {Boys}")
 #0.7058823529411765
 
-res = Girls ** Boys
-print(res)
+Boys = 17
+Boys = Girls ** Boys
+print(f"The exponentiation of two variables is {Boys}")
 #2218611106740436992
 
-res = Girls // Boys
-print(res)
+Boys = 17
+Boys = Girls // Boys
+print(f"The floor division of two variables is {Boys}")
 #0
 
-res = Girls % Boys
-print(res)
+Boys = 17
+Boys = Girls % Boys
+print(f"The modulus of two variables is {Boys}")
 #12
-
-print(f"Adding boys and girls = {res_1}")
-#29
 
 #Adding values in variables useing assignment operator
 #Method 1
 
-res = Girls + 10
-print(res)
+Boys = 17
+Boys = Girls + 10
+print(Boys)
 #22
 
-res = Boys - 7
-print(res)
+Boys = 17
+Boys = Boys - 7
+print(Boys)
 #10
 
 #Method 2
@@ -54,6 +59,7 @@ teacher += 10
 print(teacher)
 #13
 
+Boys = 17
 Boys += 4
 print(Boys)
 #21
